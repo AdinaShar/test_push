@@ -1,3 +1,4 @@
+<link rel="manifest" href="/manifest.json">
 {
   "name": "test_push",
   "short_name": "test_push",
