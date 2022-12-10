@@ -1,0 +1,7 @@
+{
+  "name": "test_push",
+  "short_name": "test_push",
+  "gcm_sender_id": "783856779162",
+  "display": "standalone",
+  "gcm_user_visible_only": true
+}
